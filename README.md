@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [favorite game website](https://github.com/dimitar-panev/favourite-game-site.git)
 
-- 🌱 I’m currently learning **Frontend development, WordPress, Postman, Photoshop;**
+- 🌱 At the moment I’m learning **Frontend development, WordPress, Postman, Photoshop;**
 
 - 💬 Ask me about **anything you want!**
 
 - 📫 How to reach me **dimiturpanev16@gmail.com**
-
-- ⚡ Fun fact **Nothing. I ain't funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
