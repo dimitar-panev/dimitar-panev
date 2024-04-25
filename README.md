@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dimitar-panev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimitar-panev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dimitar panev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitar panev" height="30" width="40" /></a>
-<a href="https://fb.com/mitko panev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mitko panev" height="30" width="40" /></a>
+<a href="[https://twitter.com/dimitar-panev](https://twitter.com/dimitar_panev)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimitar-panev" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dimitar panev](https://www.linkedin.com/in/dimitar-panev-70b345232/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitar panev" height="30" width="40" /></a>
+<a href="[https://fb.com/mitko panev](https://www.facebook.com/DimitarCPanev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mitko panev" height="30" width="40" /></a>
 <a href="https://instagram.com/mitk0y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mitk0y" height="30" width="40" /></a>
 </p>
 
