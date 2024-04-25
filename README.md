@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimitar Panev, a student at University of Library Studies and Information Technology</h1>
+<h1 align="center">Hi 👋, I'm Dimitar Panev, first year student at University of Library Studies and Information Technologies</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria.</h3>
 
 - 🔭 I’m currently working on [favorite game website](https://github.com/dimitar-panev/favourite-game-site.git)
