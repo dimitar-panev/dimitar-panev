@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **anything you want!**
 
-- 📫 How to reach me **dimiturpanev16@gmail.com**
+- 📫 How to reach me **dpanev@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
