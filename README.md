@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dimitar Panev, second year student at University of Library Studies and Information Technologies</h1>
-<h3 align="center">A passionate frontend developer/network administrator from Bulgaria.</h3>
 
 - 🔭 I’m currently working on [Restaurant Menu](https://github.com/dimitar-panev/Restaurant-Menu)
 
-- 🌱 At the moment I’m learning **Frontend development, WordPress, Postman, Photoshop;**
+- 🌱 At the moment I’m learning **Networking, OS, System Administration and Server Management;**
 
 - 💬 Ask me about **anything you want!**
 
