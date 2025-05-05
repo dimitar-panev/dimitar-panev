@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Dimitar Panev - Quietly Observing the Digital Realm</h1>
-<h3 align="center">Second Year Student at the University of Library Studies and Information Technologies</h3>
+<h3 align="center">Second Year Student at University of Library Studies and Information Technologies</h3>
 
 Currently immersed in the often-silent yet crucial worlds of **Networking, Operating Systems, System Administration, and Server Management**. I find a certain fascination in understanding the underlying mechanisms that power our digital interactions. The flow of data and the logic governing systems hold a particular intrigue for me. Perhaps one day I'll fully decipher the machine's language, though for now, careful observation and logical deduction are my primary tools.
 
