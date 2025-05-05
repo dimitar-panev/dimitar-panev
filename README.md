@@ -3,7 +3,7 @@
 
 Currently embarking on a thrilling expedition through the intricate landscapes of **Networking, Operating Systems, System Administration, and Server Management**. I'm on a quest to not only understand how our digital world ticks but also to occasionally make it do my bidding (mostly successfully!). The dance of packets across networks and the cryptic whispers of the kernel truly pique my interest. One day, I aspire to speak fluent binary... or at least understand the error messages without immediately resorting to a search engine.
 
-When I'm not battling rogue processes or untangling network configurations, you might find me pondering the philosophical implications of subnetting or perhaps just trying to get my home router to cooperate. I'm particularly keen on the practical side of things, always eager to explore the nuances of **MikroTik** and **EnGenius** gear.
+When I'm not battling rogue processes or untangling network configurations, you might find me pondering the philosophical implications of subnetting or perhaps just trying to get my home router to cooperate. I'm particularly keen on the practical side of things, always eager to explore the nuances of **MikroTik**, **EnGenius**, **Groundstream** and **Milesight** gear.
 Got a burning question about VLANs, the subtle art of firewall rules, or the existential dread of a server outage? **Don't hesitate to ask!** I'm always up for a nerdy chat and a good laugh.
 
 Connect with me and let's explore the digital frontier together: **dpanev@protonmail.com**
