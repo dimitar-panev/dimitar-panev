@@ -23,5 +23,8 @@ Connect with me and let's explore the digital frontier together: **dpanev@proton
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/382713/windows-applications.svg" width="40" height="40"></a>
+<a href="microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/280604/hashtag-c-sharp.svg" width="40" height="40"></a>
+<a href="https://rts-bg.com/en/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/241685/networking-server.svg" alt="networking" width="40" height="40"></a>
 </p>
