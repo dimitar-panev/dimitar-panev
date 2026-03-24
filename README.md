@@ -1,9 +1,10 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dimitar%20Panev%20-%20Quietly%20Observing%20the%20Digital%20Realm&textBg=false&fontAlign=50&fontAlignY=35&fontSize=33">
 <h3 align="center">Third Year Student at University of Library Studies and Information Technologies</h3>
 
-Currently immersed in the often-silent yet crucial worlds of **Networking, Operating Systems, System Administration, and Server Management**. I find a certain fascination in understanding the underlying mechanisms that power our digital interactions. The flow of data and the logic governing systems hold a particular intrigue for me. Perhaps one day I'll fully decipher the machine's language, though for now, careful observation and logical deduction are my primary tools.
+Hey! I'm a Network Engineer and IT student currently deep-diving into the world of infrastructure. While I have a background in multiple programming languages (C#, Python, Web Development, JS), my daily fascinations involve network topologies and server stability.
 
-When not navigating system logs or pondering network topologies, I might be contemplating the subtle elegance of a well-configured subnet or the quiet satisfaction of a stable server. I'm particularly drawn to the practical aspects of networking, with a growing interest in the intricacies of **MikroTik**, **EnGenius**, **Groundstream**, and **Milesight** equipment. And yes, I've also explored the structured world of **C#**, appreciating its precision, even if my current focus leans towards the silent language of infrastructure.
+I’m particularly interested in the practical side of hardware—I spend a lot of time working with MikroTik, EnGenius, Grandstream, and Milesight gear. Whether it's troubleshooting a stubborn system log or configuring a new subnet, I’m all about logical deduction and efficient systems.
+
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dvbGhmOTBiZXJ0NW5jdTJydWF3Z3k2YnBjZWVzbjh3MzA2ZGJ4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPpFhwsMNrRIjN6/giphy.gif"></p>
 If you have insights into network design, the nuances of OS behavior, or the quiet art of server maintenance, I'd be interested to hear them. Feel free to connect: <strong>dpanev@protonmail.com</strong>
 
