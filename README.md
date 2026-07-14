@@ -31,11 +31,6 @@ I’m particularly interested in the practical side of hardware but I don't mind
 <img src="https://img.shields.io/badge/Bash-282828?style=flat-square&logo=gnu-bash&logoColor=ebdbb2" />
 <img src="https://img.shields.io/badge/C%23-282828?style=flat-square&logo=c-sharp&logoColor=ebdbb2" />
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimitar-panev&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 ### 🎯 What I'm Currently Working On:
 * 🏗️ Investigating Terraform integration for provisioning my live homelab stack
 * 📱 Testing custom Android ROMs (like crDroid) on secondary mobile hardware
